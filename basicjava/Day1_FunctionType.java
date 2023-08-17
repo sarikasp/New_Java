@@ -5,16 +5,16 @@ public class Day1_FunctionType {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
-        addA();
+        addA();  // 16
         addA();
         addA();
         System.out.println("------------");
-        addB(12, 6);
+        addB(12, 6);  // 18
         System.out.println("------------");
         int z = addC(10, 15);
-        System.out.println(z);
-        System.out.println(z + 10);
-        System.out.println(z * 0.10);
+        System.out.println(z);  // 25
+        System.out.println(z + 10);  // 35
+        System.out.println(z * 0.10);  // 2.5
     }
 
     //Function without parameter and without return type

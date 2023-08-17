@@ -15,7 +15,6 @@ public class Day2_Operators {
         System.out.println(5 != 5); // false
         System.out.println(5 == 5); // true
 
-
         // Logical operator
         System.out.println("------ Logical And Operators ------");
 

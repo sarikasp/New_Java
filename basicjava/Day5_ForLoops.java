@@ -39,6 +39,13 @@ public class Day5_ForLoops {
         }
         System.out.println("---------");
 
+
+        for(int i = 5; i <=50; i=i+5){
+            System.out.println(i);
+        }
+        System.out.println("---------");
+
+
         // Program 6
         // Reverse Table 5  // 50 // 45  ------------5
         for(int i = 50; i >=5; i = i-5){

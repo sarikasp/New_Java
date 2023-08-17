@@ -5,7 +5,7 @@ public class Day7_WhileLoop {
 
         // Program 1
 
-        // print hello 3 times
+        //  print hello 3 times
         // initialization
         int a1 = 1;
         while (a1 <=3){
@@ -14,7 +14,7 @@ public class Day7_WhileLoop {
         }
         System.out.println("---------");
 
-
+        // 1 2 3
         // Program 2
         int a2 = 1;
         while (a2 <=3){
@@ -33,7 +33,7 @@ public class Day7_WhileLoop {
         System.out.println("---------");
 
 
-        // Program 4
+         // Program 4
         int a4 = 5;
         while (a4 >= 1){
             System.out.println(a4);
@@ -57,7 +57,7 @@ public class Day7_WhileLoop {
         int a6 = 50;
         while (a6 >= 5){
             System.out.println(a6);
-            a6 -= 5;
+            a6 = a6 - 5;
         }
         System.out.println("---------");
 
